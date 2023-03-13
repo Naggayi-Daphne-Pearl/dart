@@ -59,3 +59,35 @@ Control Flow Statements
           print("The number is smaller than 40");
        } 
       }
+      
+      if-else condition 
+      if(condition) {  
+      // statement(s);  
+      } else {  
+          // statement(s);  
+      }  
+      
+      
+      switch case 
+      switch( expression )  
+    {  
+        case value-1:{  
+
+                //statement(s)  
+                Block-1;  
+                                             }  
+                                                break;  
+        case value-2:{             
+                                                              //statement(s)  
+                Block-2;  
+                                              }  
+                                               break;  
+        case value-N:{             
+                                                              //statement(s)  
+                Block-N;  
+                                              }  
+                                               break;  
+        default:    {  
+                //statement(s);  
+                                          }  
+    }  
