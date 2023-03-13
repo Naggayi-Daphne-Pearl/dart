@@ -48,3 +48,14 @@ Control Flow Statements
     break: used to exit a loop early.
     continue: used to skip the current iteration of a loop and continue with the next one.
     These control flow statements can be used to create complex logic and control the flow of execution in Dart programs.
+    
+      if condition 
+      void main () {  
+        // define a variable which hold numeric value  
+       var n = 35;  
+
+       // if statement check the given condition  
+       if (n<40){  
+          print("The number is smaller than 40");
+       } 
+      }
