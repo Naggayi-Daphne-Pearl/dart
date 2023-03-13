@@ -1,0 +1,7 @@
+CLASS 
+  Class definition 
+    - Fields
+    - Methods
+    - Constructors
+    - Getters and Setters 
+   
