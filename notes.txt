@@ -14,4 +14,16 @@ Defining a function in dart
        c = a+b;  
        print("The sum is:${c}");  
       } 
+      
+      // function 
+      void main(){
+        int sum(int a, int b){
+          int c; 
+          c = a + b; 
+          return c;       
+      }
+        // calling the function
+        var d = sum(20,10);
+        print('the sum of two number is ${d}');
+      }
 
