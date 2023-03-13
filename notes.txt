@@ -91,3 +91,9 @@ Control Flow Statements
                 //statement(s);  
                                           }  
     }  
+    
+    
+    for loop 
+      for(Initialization; condition; incr/decr) {  
+      // loop body  
+      }  
